@@ -1,6 +1,8 @@
 # Fler - Attract Top Talent Faster
 Most tech companies struggle to attract top talent. Fler is a recruitment automation software making it effortless to find, contact, and invite candidates to interview for open jobs. Companies using Fler attract more quality candidates in less time.
 
+**Come visit us at https://getfler.com!**
+
 <!--
 
 **Here are some ideas to get you started:**
